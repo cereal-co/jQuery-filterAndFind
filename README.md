@@ -11,4 +11,6 @@ $.fn.filterAndFind = function(el) {
 
 ## Usage
 
+<pre>
 data = $(data).filterAndFind(".element");
+</pre>
