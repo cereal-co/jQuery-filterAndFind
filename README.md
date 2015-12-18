@@ -1,5 +1,5 @@
 # jQuery-filterAndFind
-[Article on why this function is useful](http://cereal.co/jquery-filter-find-and-ajax/)
+For information about this function, please read this [Article](http://cereal.co/jquery-filter-find-and-ajax/).
 
 ## The filterAndFind() function
 
